@@ -1,0 +1,594 @@
+((("production?" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("env" .
+   [2 0 0])
+  ("render" .
+   [1 0 0 0 0 0])
+  ("Rails" .
+   [3 0 0 0 0])
+  ("verify_ip" .
+   [0 0 0 0 0 1 0 0 0])
+  ("VideosController" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("ApplicationController" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("RulesController" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("Festival" .
+   [0 0 0 1 0 0 0 0])
+  ("zone" .
+   [1 0 0 0])
+  ("now" .
+   [1 0 0])
+  ("blocked_at" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("visit" .
+   [1 0 0 0 0])
+  ("build" .
+   [1 0 0 0 0])
+  ("count" .
+   [1 0 0 0 0])
+  ("coords" .
+   [4 0 0 0 0 0])
+  ("prev" .
+   [10 0 0 0])
+  ("process" .
+   [1 0 0 0 0 0 0])
+  ("held_on" .
+   [2 0 0 0 0 0 0])
+  ("services" .
+   [0 0 0 0 0 1 0 0])
+  ("extend" .
+   [1 0 0 0 0 0])
+  ("vehicle_services" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("controller" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("current_service" .
+   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("kind_id" .
+   [1 0 0 0 0 0 0])
+  ("end_date" .
+   [1 0 0 0 0 0 0 0])
+  ("auditable_type" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("delete" .
+   [1 0 0 0 0 0])
+  ("new_changes" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("KIND_MAPPING" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("CsvDocument" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("changes" .
+   [5 0 0 0 0 0 0])
+  ("description" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("actual" .
+   [0 0 0 0 0 1])
+  ("documentable_type" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("documentable_id" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("name" .
+   [1 0 0 0])
+  ("args" .
+   [10 0 1 0])
+  ("environment" .
+   [0 0 0 0 2 1 0 0 0 0 0])
+  ("task" .
+   [3 0 0 0])
+  ("presence" .
+   [2 0 0 0 0 0 0 1])
+  ("starts_on" .
+   [1 0 0 0 0 0 0 0 0])
+  ("number" .
+   [2 0 0 0 0 0])
+  ("ends_on" .
+   [1 0 0 0 2 0 0])
+  ("en" .
+   [5 0])
+  ("Document" .
+   [1 0 0 0 0 0 0 0])
+  ("BatteryManufacturer" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("find_active_trucks" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("index" .
+   [1 0 0 0 0])
+  ("only" .
+   [1 0 0 0])
+  ("before_filter" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("10_000" .
+   [1 0 0 0 0 0])
+  ("allow_nil" .
+   [0 0 0 0 0 0 0 0 1])
+  ("registration_number" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pallet_places_number" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0])
+  ("timestamp" .
+   [0 0 0 0 0 0 1 0 0])
+  ("state" .
+   [0 0 0 0 1])
+  ("object" .
+   [2 0 0 0 0 0])
+  ("m" .
+   [1])
+  ("try" .
+   [1 0 0])
+  ("Base" .
+   [1 0 0 0])
+  ("Tracking" .
+   [1 0 0 0 0 0 0 0])
+  ("last_tracked_at" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("delegate" .
+   [4 0 0 0 0 0 0 0])
+  ("will_be_available_for_tracking?" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("update_tracked_at" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("Cargo" .
+   [1 0 0 0 0])
+  ("in_time_zone" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("hour" .
+   [1 0 0 0])
+  ("change" .
+   [1 0 0 0 0 0])
+  ("current" .
+   [2 0 0 0 0 0 1])
+  ("next_segment" .
+   [0 0 0 0 0 0 0 2 0 0 0 0])
+  ("30" .
+   [1 0])
+  ("12" .
+   [1 0])
+  ("model" .
+   [4 0 0 0 0])
+  ("14" .
+   [1 0])
+  ("arrive_at" .
+   [2 0 0 0 0 0 0 0 0])
+  ("Time" .
+   [2 0 0 0])
+  ("fixed_depart_at" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("expedition" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("create_last" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("development" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("point2" .
+   [3 0 0 0 0 0])
+  ("DocumentImage" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("desc" .
+   [3 0 0 0])
+  ("unscoped" .
+   [0 0 0 0 1 0 0 0])
+  ("find_by_imei" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Truck" .
+   [1 0 0 0 0])
+  ("order" .
+   [2 0 0 0 0])
+  ("imei" .
+   [3 0 0 0])
+  ("archived_at" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("where" .
+   [6 0 0 0 0])
+  ("as" .
+   [1 0])
+  ("archive" .
+   [0 0 0 0 0 0 1])
+  ("it" .
+   [4 0])
+  ("notifications" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("notification" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("depart_status_id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("status" .
+   [9 0 0 0 0 0])
+  ("prev_status" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("arrive_status" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("owner_name" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("company_name" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("a" .
+   [2])
+  ("errors" .
+   [1 0 0 0 0 0])
+  ("client" .
+   [1 0 0 0 0 0])
+  ("html_safe" .
+   [0 0 0 0 1 0 0 0 0])
+  ("phones" .
+   [1 0 0 0 0 0])
+  ("merge_if_needed" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("unassign_company" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("active" .
+   [5 0 0 0 0 0])
+  ("unconfirmed" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("company" .
+   [7 0 0 0 0 0 0])
+  ("set_created_by" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("class_name" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("creator" .
+   [2 0 0 0 0 0 0])
+  ("belongs_to" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("de" .
+   [2 0])
+  ("ClientRegistration" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("production" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("cargos" .
+   [2 0 0 0 0 0])
+  ("cargo" .
+   [7 0 0 0 0])
+  ("point" .
+   [13 0 0 0 0])
+  ("stub" .
+   [3 0 0 0])
+  ("not_vacant_cargo" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("no" .
+   [2 0])
+  ("production_trips" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("through" .
+   [1 0 0 0 0 0 0])
+  ("has_one" .
+   [1 0 0 0 0 0 0])
+  ("id" .
+   [3 0])
+  ("show" .
+   [1 0 0 0])
+  ("persisted?" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("trip" .
+   [5 0 0 0])
+  ("find" .
+   [1 0 0 0])
+  ("page" .
+   [2 0 0 0])
+  ("Fabricator" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("statuses_scope" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("statuses" .
+   [4 0 0 0 0 0 0 0])
+  ("points" .
+   [5 0 0 0 0 0])
+  ("create" .
+   [3 0 0 0 0 0])
+  ("truck" .
+   [15 0 0 0 1])
+  ("address" .
+   [2 0 0 0 0 0 0])
+  ("center" .
+   [1 0 0 0 0 0])
+  ("Fabricate" .
+   [0 0 0 2 0 0 0 0 2])
+  ("13" .
+   [1 0])
+  ("payment_method" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("valid?" .
+   [1 0 0 0 0 0])
+  ("attributes" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("save" .
+   [6 0 0 0])
+  ("initialize" .
+   [1 0 0 0 0 0 0 0 1 1])
+  ("city" .
+   [1 0 0 0])
+  ("country" .
+   [3 0 0 0 1 0 0])
+  ("middle_name" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("last_name" .
+   [0 0 0 0 0 1 0 0 0])
+  ("first_name" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("login" .
+   [2 0 0 0 0])
+  ("phone" .
+   [1 0 0 0 0])
+  ("params" .
+   [10 0 0 0 1 0])
+  ("validatable?" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("relation" .
+   [1 0 0 1 0 0 0 0])
+  ("r" .
+   [1])
+  ("request" .
+   [2 0 0 0 0 0 0])
+  ("attr_accessor" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("each" .
+   [2 0 0 0])
+  ("family_members" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("input" .
+   [1 0 0 0 0])
+  ("important" .
+   [0 0 0 0 1 0 0 0 0])
+  ("span" .
+   [2 0 0 0])
+  ("to" .
+   [9 0])
+  ("mail" .
+   [1 0 0 0])
+  ("credit_request" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("attr_accessible" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("require" .
+   [0 0 0 0 1 0 0])
+  ("progn" .
+   [2 0 0 0 0])
+  ("lambda" .
+   [0 0 0 0 1 0])
+  ("text" .
+   [2 0 0 0])
+  ("lng" .
+   [2 0 0])
+  ("lat" .
+   [1 0 0])
+  ("param" .
+   [2 0 0 0 0])
+  ("this" .
+   [1 0 0 0])
+  ("rtn" .
+   [1 0 0])
+  ("console" .
+   [1 0 0 0 0 0 0])
+  ("log" .
+   [1 0 0])
+  ("_val" .
+   [1 0 0 0])
+  ("version" .
+   [1 0 0 0 0 0 0])
+  ("last_point" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("after" .
+   [1 0 0 0 0])
+  ("load_point" .
+   [3 0 0 0 0 0 0 0 0 1])
+  ("expect" .
+   [4 0 0 0 0 0])
+  ("eq" .
+   [3 0])
+  ("point1" .
+   [1 0 0 0 0 0])
+  ("first" .
+   [2 0 0 0 0])
+  ("safe_join" .
+   [0 0 0 0 0 1 0 0 0])
+  ("select_kind" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("kind" .
+   [11 0 0 0])
+  ("from" .
+   [1 0 0 0])
+  ("any" .
+   [1 0 0])
+  ("any?" .
+   [1 0 0 0])
+  ("requested_truck" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("let" .
+   [3 0 0])
+  ("dispatcher" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("truck_id" .
+   [1 0 0 0 0 0 0 0])
+  ("options" .
+   [8 0 0 0 0 0 0])
+  ("route" .
+   [5 0 0 0 0])
+  ("get" .
+   [1 0 0])
+  ("on" .
+   [1 0])
+  ("member" .
+   [1 0 0 0 0 0])
+  ("first_point" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("last" .
+   [2 0 0 0])
+  ("route_url" .
+   [2 0 0 0 0 0 0 0 0])
+  ("document_images" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("image" .
+   [2 0 0 0 0])
+  ("new" .
+   [1 0 0])
+  ("document_image" .
+   [2 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("next_point" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("double" .
+   [1 0 0 0 0 0])
+  ("readonly" .
+   [1 0 0 0 0 0 0 0])
+  ("suitable_for_search?" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("loading_date_from" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loader_address" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("TRACK_PERIOD" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("ago" .
+   [1 0 0])
+  ("describe" .
+   [1 0 0 0 0 0 0 0])
+  ("can_be_tracked?" .
+   [0 0 0 0 0 0 3 0 0 1 0 0 0 0 1])
+  ("be_false" .
+   [1 0 0 0 0 0 0 0])
+  ("be_true" .
+   [1 0 0 0 0 0 0])
+  ("context" .
+   [1 0 0 0 0 0 0])
+  ("configuration_parameters" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("search" .
+   [3 0 0 0 0 0])
+  ("scope" .
+   [7 0 0 0 0])
+  ("attr_reader" .
+   [1 0 0 0 0 0 0 1 0 0 0])
+  ("trucks" .
+   [9 0 0 0 0 0])
+  ("weight" .
+   [0 0 0 1 0 1])
+  ("s" .
+   [1])
+  ("capacity" .
+   [0 0 0 0 1 0 0 0])
+  ("volume" .
+   [0 0 0 0 1 0])
+  ("trailer" .
+   [1 0 0 0 0 0 0])
+  ("trailer_kind" .
+   [0 0 0 0 0 0 0 0 0 1 1 0])
+  ("carrying_capacity" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("number_of_pallets" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("loading_meters" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("loading_meter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("field" .
+   [1 0 0 0 0])
+  ("param_name" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("trucks_scope" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("total_specification" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("field_name" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("available_from" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("available_to" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("loading_date_to" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("formatted_available_from_date" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("t" .
+   [2])
+  ("results" .
+   [1 0 0 0 0 0 0])
+  ("distance" .
+   [6 0 0 0 1 0 0 0])
+  ("private" .
+   [1 0 0 0 0 0 0])
+  ("source" .
+   [1 0 0 0 0 1])
+  ("destination" .
+   [0 0 0 0 0 0 1 1 0 0 0])
+  ("mapped" .
+   [1 0 0 0 0 0])
+  ("unloader_address_attributes" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("except" .
+   [0 0 0 1 0 0])
+  ("tire" .
+   [4 0 0 0])
+  ("respond_with" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("validates" .
+   [2 0 0 0 0 0 0 0 2])
+  ("d" .
+   [1])
+  ("identifier" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("original_resource" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("numericality" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("greater_than" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("max_wheels_number" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("create_table" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("documents" .
+   [1 0 0 0 0 0 0 0 0])
+  ("documentable" .
+   [1 0 0 0 0 0 0 0 0 0 0 1])
+  ("CSV" .
+   [1 0 0])
+  ("mileage" .
+   [2 0 0 0 0 0 1])
+  ("mileage?" .
+   [1 0 0 0 0 0 0 0])
+  ("document" .
+   [0 0 0 0 0 0 0 1])
+  ("present?" .
+   [1 0 0 0 0 0 0 0])
+  ("countries" .
+   [3 0 0 0 1 1 0 0 0])
+  ("Enumerize" .
+   [1 0 0 1 1 0 0 0 0])
+  ("enumerize" .
+   [0 0 0 0 1 0 0 0 0])
+  ("resource_class" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("VehicleService" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("instance_name" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("service" .
+   [1 0 0 0 0 0 0])
+  ("vehicle" .
+   [1 0 0 0 0 0 0])
+  ("Country" .
+   [1 0 0 0 0 0 0])
+  ("record" .
+   [1 0 0 0 0 0])
+  ("geometry" .
+   [0 0 0 0 0 2 0 1])
+  ("Math" .
+   [5 0 0 0])
+  ("latitude" .
+   [0 0 0 0 2 1 0 0])
+  ("sin" .
+   [1 0 0])
+  ("cos" .
+   [3 0 0])
+  ("longitude" .
+   [0 0 0 0 1 0 0 0 0])
+  ("postgis_distance" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("angle" .
+   [1 0 0 0 0])
+  ("EARTH_RADIUS" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("app_distance" .
+   [0 0 0 0 0 0 2 0 0 0 0 0])))
